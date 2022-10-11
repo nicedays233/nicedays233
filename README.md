@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm nicedays</h1>
 <h3 align="center">A passionate fullstack developer from china</h3>
 
-- 🔭 I’m currently working on **nicedays**
 
 - 🌱 I’m currently learning **rust,poem,yew**
-
-- 👯 I’m looking to collaborate on **nicedays**
 
 - 🤝 I’m looking for help with [poem](https://github.com/poem-web/poem)
 
@@ -30,7 +27,7 @@
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![Maven](http://img.shields.io/badge/-Maven-1565c0?style=flat-square&logo=apache-maven)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
+![Flink](http://img.shields.io/badge/-Flink-269539?style=flat-square&logo=flink&logoColor=ffffff)
 ![Rust](http://img.shields.io/badge/-Rust-1565c0?style=flat-square&logo=rust&logoColor=ffffff)
 ![Scala](http://img.shields.io/badge/-Scala-007396?style=flat-square&logo=scala&logoColor=ffffff)****
 #### Frontend
