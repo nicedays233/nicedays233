@@ -2,15 +2,15 @@
 <h3 align="center">A passionate fullstack developer from china</h3>
 
 ```
-                                                          __                                
-                                  __                     /\ \                               
-                            ___  /\_\     ___      __    \_\ \      __     __  __     ____  
-                          /' _ `\\/\ \   /'___\  /'__`\  /'_` \   /'__`\  /\ \/\ \   /',__\ 
-                          /\ \/\ \\ \ \ /\ \__/ /\  __/ /\ \L\ \ /\ \L\.\_\ \ \_\ \ /\__, `\
-                          \ \_\ \_\\ \_\\ \____\\ \____\\ \___,_\\ \__/.\_\\/`____ \\/\____/
-                           \/_/\/_/ \/_/ \/____/ \/____/ \/__,_ / \/__/\/_/ `/___/> \\/___/ 
-                                                                               /\___/       
-                                                                               \/__/        
+                                                             __                                
+                                     __                     /\ \                               
+                               ___  /\_\     ___      __    \_\ \      __     __  __     ____  
+                             /' _ `\\/\ \   /'___\  /'__`\  /'_` \   /'__`\  /\ \/\ \   /',__\ 
+                             /\ \/\ \\ \ \ /\ \__/ /\  __/ /\ \L\ \ /\ \L\.\_\ \ \_\ \ /\__, `\
+                             \ \_\ \_\\ \_\\ \____\\ \____\\ \___,_\\ \__/.\_\\/`____ \\/\____/
+                              \/_/\/_/ \/_/ \/____/ \/____/ \/__,_ / \/__/\/_/ `/___/> \\/___/ 
+                                                                                  /\___/       
+                                                                                  \/__/        
 ```
 
 - 🌱 I’m currently learning **rust,poem,yew**
@@ -36,7 +36,7 @@
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![Python](http://img.shields.io/badge/-Python-1565c0?style=flat-square&logo=python)
+![Python](http://img.shields.io/badge/-Python-1565c0?style=flat-square&logo=python&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Flink](http://img.shields.io/badge/-Flink-269539?style=flat-square&logo=flink&logoColor=ffffff)
 ![Rust](http://img.shields.io/badge/-Rust-1565c0?style=flat-square&logo=rust&logoColor=ffffff)
