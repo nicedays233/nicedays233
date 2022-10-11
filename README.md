@@ -29,7 +29,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Flink](http://img.shields.io/badge/-Flink-269539?style=flat-square&logo=flink&logoColor=ffffff)
 ![Rust](http://img.shields.io/badge/-Rust-1565c0?style=flat-square&logo=rust&logoColor=ffffff)
-![Scala](http://img.shields.io/badge/-Scala-007396?style=flat-square&logo=scala&logoColor=ffffff)****
+![Scala](http://img.shields.io/badge/-Scala-007396?style=flat-square&logo=scala&logoColor=ffffff)
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
