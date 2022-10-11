@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm nicedays</h1>
 <h3 align="center">A passionate fullstack developer from china</h3>
 
+```
                                 __                                
         __                     /\ \                               
   ___  /\_\     ___      __    \_\ \      __     __  __     ____  
@@ -10,7 +11,7 @@
  \/_/\/_/ \/_/ \/____/ \/____/ \/__,_ / \/__/\/_/ `/___/> \\/___/ 
                                                      /\___/       
                                                      \/__/        
-
+```
 
 - 🌱 I’m currently learning **rust,poem,yew**
 
