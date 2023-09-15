@@ -17,13 +17,13 @@
 
 - 🤝 I’m looking for help with [poem](https://github.com/poem-web/poem)
 
-- 📝 I regularly write articles on [www.nicedayss.com](www.nicedayss.com)
+- 📝 I regularly write articles on [https://my-dearest.com/](https://my-dearest.com/)
 
 - 💬 Ask me about **java,rust,flink,canal**
 
 - 📫 How to reach me **nicedays233@163.com**
 
-- 📄 Know about my experiences [www.nicedayss.com](www.nicedayss.com)
+- 📄 Know about my experiences [https://my-dearest.com/](https://my-dearest.com/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
