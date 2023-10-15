@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm nicedays</h1>
-<h3 align="center">A passionate fullstack developer from china</h3>
+<h3 align="center">A passionate fullstack developer from China</h3>
 
 ```
                                                          __                                
