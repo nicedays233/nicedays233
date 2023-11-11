@@ -13,9 +13,9 @@
                                                                               \/__/        
 ```
 
-- 🌱 I’m currently learning **rust,poem,yew**
+- 🌱 I’m currently learning **rust,react,yew**
 
-- 🤝 I’m looking for help with [poem](https://github.com/poem-web/poem)
+- 🤝 I’m looking for help with [rcore](https://github.com/rcore)
 
 - 📝 I regularly write articles on [https://my-dearest.com/](https://my-dearest.com/)
 
