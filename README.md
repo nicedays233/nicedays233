@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **rust,react,yew**
 
-- 🤝 I’m looking for help with [rcore](https://github.com/rcore)
+- 🤝 I’m looking for help with [rcore](https://github.com/rcore-os/rCore)
 
 - 📝 I regularly write articles on [https://my-dearest.com/](https://my-dearest.com/)
 
