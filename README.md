@@ -13,13 +13,13 @@
                                                                               \/__/        
 ```
 
-- 🌱 I’m currently learning **rust,react,yew**
+- 🌱 I’m currently building **AI-native iOS apps, voice agents, and developer automation**
 
 - 🤝 I’m looking for help with [rcore](https://github.com/rcore-os/rCore)
 
 - 📝 I regularly write articles on [https://my-dearest.com/](https://my-dearest.com/)
 
-- 💬 Ask me about **java,rust,flink,canal**
+- 💬 Ask me about **SwiftUI, iOS AI, Java, Rust, Flink, agents, and backend systems**
 
 - 📫 How to reach me **transwarp@transwarp.tech**
 
@@ -33,20 +33,32 @@
 
 ### My Tech Stack
 
-![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=ffffff)
-![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
-![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
+#### AI & Mobile
+![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=ffffff)
+![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=ffffff)
+![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=ffffff)
+![App Store Connect](https://img.shields.io/badge/-App%20Store%20Connect-0D96F6?style=flat-square&logo=appstore&logoColor=ffffff)
+![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=ffffff)
 ![Python](http://img.shields.io/badge/-Python-1565c0?style=flat-square&logo=python&logoColor=ffffff)
-![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
-![Flink](http://img.shields.io/badge/-Flink-269539?style=flat-square&logo=flink&logoColor=ffffff)
-![Rust](http://img.shields.io/badge/-Rust-1565c0?style=flat-square&logo=rust&logoColor=ffffff)
-![Scala](http://img.shields.io/badge/-Scala-007396?style=flat-square&logo=scala&logoColor=ffffff)
+
+#### Backend & Data
+![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff)
+![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
+![Rust](http://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
+![Scala](http://img.shields.io/badge/-Scala-DC322F?style=flat-square&logo=scala&logoColor=ffffff)
+![Flink](http://img.shields.io/badge/-Flink-E6526F?style=flat-square&logo=apacheflink&logoColor=ffffff)
+![Canal](https://img.shields.io/badge/-Canal-1677FF?style=flat-square)
+
 #### Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=ffffff)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=ffffff)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
@@ -55,11 +67,12 @@
 ![Oracle Database](http://img.shields.io/badge/-Oracle-DD0031?style=flat-square&logo=oracle)
 ![MS SQL Server](http://img.shields.io/badge/-MS%20SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
 
-#### Others
+#### DevOps & Tooling
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Github Actions](http://img.shields.io/badge/-Github%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=ffffff)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=ffffff)
 
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
