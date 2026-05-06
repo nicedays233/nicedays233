@@ -21,7 +21,7 @@
 
 - 💬 Ask me about **java,rust,flink,canal**
 
-- 📫 How to reach me **nicedays233@163.com**
+- 📫 How to reach me **transwarp@transwarp.tech**
 
 - 📄 Know about my experiences [https://my-dearest.com/](https://my-dearest.com/)
 
