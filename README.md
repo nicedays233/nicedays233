@@ -37,6 +37,8 @@
 ![Swift](https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=swift&logoColor=ffffff)
 ![SwiftUI](https://img.shields.io/badge/-SwiftUI-0D96F6?style=flat-square&logo=swift&logoColor=ffffff)
 ![iOS](https://img.shields.io/badge/-iOS-000000?style=flat-square&logo=apple&logoColor=ffffff)
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&logoColor=ffffff)
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=dart&logoColor=ffffff)
 ![Xcode](https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=ffffff)
 ![App Store Connect](https://img.shields.io/badge/-App%20Store%20Connect-0D96F6?style=flat-square&logo=appstore&logoColor=ffffff)
 ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000)
@@ -44,6 +46,8 @@
 ![Python](http://img.shields.io/badge/-Python-1565c0?style=flat-square&logo=python&logoColor=ffffff)
 
 #### Backend & Data
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=ffffff)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=ffffff)
 ![Java](http://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=ffffff)
 ![Spring](http://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=ffffff)
 ![Rust](http://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=ffffff)
