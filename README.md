@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **transwarp@transwarp.tech**
 
-- 📄 Know about my experiences [https://my-dearest.com/](https://my-dearest.com/)
+- 📄 Know about my experiences [https://transwarp.tech/](https://transwarp.tech/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
