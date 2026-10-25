@@ -17,8 +17,6 @@
 
 - 🤝 I’m looking for help with [rcore](https://github.com/rcore-os/rCore)
 
-- 📝 I regularly write articles on [https://my-dearest.com/](https://my-dearest.com/)
-
 - 💬 Ask me about **SwiftUI, iOS AI, Java, Rust, Flink, agents, and backend systems**
 
 - 📫 How to reach me **transwarp@transwarp.tech**
@@ -27,7 +25,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/nicedays" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="nicedays" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/nicedays" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="nicedays" height="30" width="40" /></a>
 </p>
 
